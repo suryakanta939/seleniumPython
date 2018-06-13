@@ -1,4 +1,3 @@
-$ pip freeze
 docutils==0.11
 Jinja2==2.7.2
 MarkupSafe==0.19
