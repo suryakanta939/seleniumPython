@@ -1,0 +1,381 @@
+1528777864296	geckodriver	INFO	geckodriver 0.20.1
+1528777864312	geckodriver	INFO	Listening on 127.0.0.1:49568
+1528777867788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\surya\\AppData\\Local\\Temp\\rust_mozprofile.mbwgRuSbtmeK"
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 440, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+1528777932220	Marionette	INFO	Listening on port 49576
+[Parent 440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+1528778078622	Marionette	INFO	Listening on port 49702
+1528778082472	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+[Parent 3040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3040, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 3040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10260, 1528788567249	geckodriver	INFO	geckodriver 0.20.1
+1528788567265	geckodriver	INFO	Listening on 127.0.0.1:50053
+1528788570809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\surya\\AppData\\Local\\Temp\\rust_mozprofile.gj4MFMZnSnN3"
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 11176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 424: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_next
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528788650582	geckodriver	INFO	geckodriver 0.20.1
+1528788650602	geckodriver	INFO	Listening on 127.0.0.1:50263
+1528788653757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\surya\\AppData\\Local\\Temp\\rust_mozprofile.DSSV4xNiRGY7"
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+1528788670676	Marionette	INFO	Listening on port 50275
+1528788675065	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+[Parent 12712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 12712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528795813830	geckodriver	INFO	geckodriver 0.20.1
+1528795813844	geckodriver	INFO	Listening on 127.0.0.1:58801
+1528795817147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\surya\\AppData\\Local\\Temp\\rust_mozprofile.mD1VdY1fqrgZ"
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 15044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15044, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+1528795876703	Marionette	INFO	Listening on port 58819
+1528795877919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/datepicker/, line 515: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+[Parent 15044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4040,console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1528796582967	Marionette	INFO	Listening on port 60082
+1528796583429	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+1528796623265	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 2524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9884,[Parent 2524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 105*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pipe named "2360.0.82223371\1393097912" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=<unknown IPC msg name>) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFFB,name=SHMEM_CREATED_MESSAGE) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x41001A,name=PGPU::Msg_InitCrashReporter) Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: Could not get a DXGI adapter
+[Child 9144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 911528796616594	Marionette	INFO	Listening on port 60187
+1528796616732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528796622581	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from [GFX1-]: Could not get a DXGI adapterC:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+
+[GFX1-]: Could not get a DXGI adapter
+1528796626991	Marionette	DEBUG	Register listener.js for window 4294967297
+1528796626992	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+[Child 13856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 2360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528796631096	geckodriver	INFO	geckodriver 0.20.1
+1528796631118	geckodriver	INFO	Listening on 127.0.0.1:60266
+1528796634117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\surya\\AppData\\Local\\Temp\\rust_mozprofile.vlEhirCG5Dyy"
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+1528796641022	Marionette	INFO	Listening on port 60279
+1528796641969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/wp-includes/js/wp-emoji-release.min.js?ver=4.6.11, line 4: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528796676837	geckodriver	INFO	geckodriver 0.20.1
+1528796676854	geckodriver	INFO	Listening on 127.0.0.1:60384
+1528796680007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\surya\\AppData\\Local\\Temp\\rust_mozprofile.oqlx8KiYpV3V"
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+1528796685386	Marionette	INFO	Listening on port 60396
+1528796686169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+[Parent 8368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9[Parent 8368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3852*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528796700291	geckodriver	INFO	geckodriver 0.20.1
+1528796700316	geckodriver	INFO	Listening on 127.0.0.1:60474
+1528796703322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\surya\\AppData\\Local\\Temp\\rust_mozprofile.7e5bm4iOnLh5"
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+1528796710383	Marionette	INFO	Listening on port 60486
+1528796711296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/datepicker/, line 515: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+1528796761440	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 12408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14016, Chrome_ChildThread] WARNING: pipe erro[Parent 12408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5592, Chrome_ChildThread] WARNING: pipe error: 1*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528796764932	geckodriver	INFO	geckodriver 0.20.1
+1528796764950	geckodriver	INFO	Listening on 127.0.0.1:60652
+1528796767981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\surya\\AppData\\Local\\Temp\\rust_mozprofile.hIXxCB7k0WGQ"
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\surya\AppData\Local\openvr\openvrpaths.vrpath
+1528796773328	Marionette	INFO	Listening on port 60664
+1528796773869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528796812514	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript error: http://demoqa.com/registration/, line 514: ReferenceError: accordion is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-109033876-1, line 69: unreachable code after return statement
+[Parent 11820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11828, Chrome_ChildThread] WARNING: pip[Parent 11820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13912, Ch[Parent 11820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15332, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

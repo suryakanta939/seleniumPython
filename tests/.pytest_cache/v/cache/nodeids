@@ -1,0 +1,15 @@
+[
+  "test_suite_demo.py::TestDemo::test_methodA",
+  "test_suite_demo.py::TestDemo::test_methodB",
+  "test_suite_demo.py::TestDemo::test_methodC",
+  "test_suite_demo.py::TestDemo2::test_methodA1",
+  "test_suite_demo.py::TestDemo2::test_methodB1",
+  "test_suite_demo.py::TestDemo2::test_methodC1",
+  "test_suite_demo.py::testDatePicker::test_datePicker",
+  "test_suite_demo.py::testDemoQa::test_registration_csv_1___suriya____kishoore____182370980____user01____surya_east09_gmail_com__",
+  "test_suite_demo.py::testDemoQa::test_registration_csv_2___suriya1____kishoore1____23532____user02____surya_east09_gmail_com__",
+  "test_suite_demo.py::testDemoQa::test_registration_excel_1___suriya1____kishoore1___123456_0___surya_east09____surya_01_gmail_com1__",
+  "test_suite_demo.py::testDemoQa::test_registration_excel_2___suriya2____kishoore2___123457_0___surya_east10____surya_01_gmail_com2__",
+  "test_suite_demo.py::testDemoQa::test_registration_excel_3___suriya3____kishoore3___123458_0___surya_east11____surya_01_gmail_com3__",
+  "test_suite_demo.py::testFrameAndWindowHandel::testFrameAndWindow"
+]
